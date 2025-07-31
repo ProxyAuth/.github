@@ -1,7 +1,7 @@
 ## ProxyAuth Projects  
 
 <h4>🦀 <b>Rust Project</b></h4>
-<b><a href="https://github.com/ProxyAuth/ProxyAuth">ProxyAuth</a></b> - Proxy Authentication Token<br>        
+<b><a href="https://github.com/ProxyAuth/ProxyAuth">ProxyAuth</a></b> - Reverse Proxy Authentication<br>        
 
 <h4>🐍 <b>Python Project</b></h4>
 <b><a href="https://github.com/ProxyAuth/ppauth-cli">ppauth-cli</a></b> A minimal Python library for interacting with ProxyAuth: retrieve TOTP QR codes and access tokens easily.<br>
